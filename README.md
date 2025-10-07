@@ -14,9 +14,6 @@ Realizei um teste simples utilizando o microfone para transcrever uma frase em p
 
 **Entrada:** "Olá, mundo! Este é um teste para o serviço de transcrição da Microsoft Azure."
 
-**Resultado:**
-![Print da tela de Speech-to-Text](images/seu-print-speech-to-text.png)
-
 **🧠 Insights e Observações:**
 * A precisão da transcrição foi impressionante, capturando todas as palavras corretamente.
 * A latência foi muito baixa, com o texto aparecendo quase instantaneamente.
@@ -51,9 +48,6 @@ Analisei duas avaliações de produtos para testar a capacidade do serviço de i
 
 **Texto de Entrada:** "Amei o celular novo, a câmera é fantástica! No entanto, a bateria poderia durar mais."
 
-**Resultado:**
-![Print da tela de Análise de Sentimento](images/seu-print-analise-de-sentimento.png)
-
 **🧠 Insights e Observações:**
 * O serviço corretamente identificou o sentimento geral como "Misto".
 * O mais impressionante foi a análise a nível de sentença, que marcou a primeira parte ("Amei o celular...") como positiva e a segunda ("a bateria poderia durar mais") como negativa. Isso é extremamente útil para obter feedback detalhado de clientes.
@@ -63,9 +57,6 @@ Analisei duas avaliações de produtos para testar a capacidade do serviço de i
 Utilizei uma frase complexa para verificar a identificação de entidades.
 
 **Texto de Entrada:** "O presidente da DIO, Iglá Generoso, anunciou uma nova formação em IA em parceria com a Microsoft."
-
-**Resultado:**
-![Print da tela de NER](images/seu-print-ner.png)
 
 **🧠 Insights e Observações:**
 * A ferramenta identificou com precisão "Iglá Generoso" como Pessoa e "DIO" e "Microsoft" como Organizações.
