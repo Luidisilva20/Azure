@@ -4,15 +4,6 @@
 
 Este repositório documenta minha jornada de aprendizado e exploração prática das ferramentas de Inteligência Artificial da Microsoft Azure: o **Speech Studio** e o **Language Studio**. O objetivo deste desafio, proposto pela DIO, é aplicar os conceitos de análise de fala e linguagem natural para entender suas capacidades e possíveis aplicações no mundo real.
 
-## 🤖 Ferramentas Utilizadas
-
--   [Azure Speech Studio](https://speech.microsoft.com/)
--   [Azure Language Studio](https://language.cognitive.azure.com/)
--   [GitHub](https://github.com/) para versionamento e documentação.
--   Markdown para a elaboração deste `README`.
-
----
-
 ## 🗣️ Exploração do Azure Speech Studio
 
 Nesta seção, detalho os experimentos realizados com o serviço de Fala do Azure.
